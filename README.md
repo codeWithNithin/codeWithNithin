@@ -44,7 +44,7 @@ Skills: HTML5, SCSS, TS, Angular, Ionic.
 ## SKILL51
 ######  (yet-to-release)
 
-![This is an image](https://play-lh.googleusercontent.com/nseXO6Z1B126kWlRiTRoMf3KhS-fvj1saOpFUmTdW6Odi2o7aT8nc-q21ObdLVMmZQ=s360-rw)
+<!-- ![This is an image](https://play-lh.googleusercontent.com/nseXO6Z1B126kWlRiTRoMf3KhS-fvj1saOpFUmTdW6Odi2o7aT8nc-q21ObdLVMmZQ=s360-rw) -->
 
 
 SKILL51 app is made, to keep track of student details such as reading, writing and speaking skills.you can manage 
@@ -69,7 +69,7 @@ Skills: HTML5, SCSS, JS, VueJS.
 ###### (https://bank.nfamilyclub.com)
 
 
-![This is an image](https://play-lh.googleusercontent.com/zbYYeWNxUIQd0jYiymrn_h-RlA8-_vCVIgtURpEECwy3Nhs4SG3P7czbsJguJYzzghQ=s360-rw)
+<!-- ![This is an image](https://play-lh.googleusercontent.com/zbYYeWNxUIQd0jYiymrn_h-RlA8-_vCVIgtURpEECwy3Nhs4SG3P7czbsJguJYzzghQ=s360-rw) -->
 
 
 NFAMILY app is made for nursery aged kids in Uk giving vital support and learning oppurtunities.
