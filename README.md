@@ -81,7 +81,7 @@ Skills: HTML5, SCSS, JS, VueJS.
 ###### (https://app.storeking.in)
 
 
-![This is an image](https://play-lh.googleusercontent.com/LXsQtevoLcPEAd_0sVNYjzI83fgo6VswjFs9JkHPW3a0UvXL6ui4PBjhnSvCcY47Mvg=s360-rw)
+![This is an image](https://storeking.in/assets/assets/images/logo/logo_2.png)
 
 
 STOREKING is a product focused on digitizing rural customers using technology platform to capture rural 
